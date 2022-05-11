@@ -36,3 +36,11 @@ canvas{
     from{box-shadow: 1px 1px 38px white;}
     to{box-shadow: 1px 1px 38px #ff0000;}
 }
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: aqua;
+    width: 100%;
+    z-index: 9;
+}
