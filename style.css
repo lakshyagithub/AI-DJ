@@ -12,7 +12,8 @@ body{
     color: #ff0000;
 }
 canvas{
-    border: 15px white solid;
+    border: 5px white solid;
+    border-radius: 20px;
     animation-name: examples;
     animation-duration: 2s;
     animation-iteration-count: infinite;
@@ -43,4 +44,8 @@ canvas{
     background-color: aqua;
     width: 100%;
     z-index: 9;
+}
+play_button{
+  width: 130px;
+  font-size: 25px;
 }
